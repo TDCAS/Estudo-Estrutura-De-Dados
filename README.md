@@ -1,49 +1,39 @@
-###Estrutura de Dados em JavaScript
+# Estrutura de Dados em JavaScript
+
+## Objetivo
 
 Este repositório destina-se ao aprendizado e prática de Estrutura de Dados em JavaScript. Aqui, você encontrará exemplos, exercícios e recursos para ajudar no seu processo de aprendizagem.
 
-##Objetivo
+## Conteúdo
 
-O principal objetivo deste repositório é fornecer um ambiente estruturado para aprender e praticar conceitos de Estrutura de Dados usando a linguagem de programação JavaScript. Ao seguir os exemplos e completar os exercícios aqui apresentados, você terá a oportunidade de aprimorar suas habilidades de programação e compreender melhor como as estruturas de dados funcionam.
+1. **Introdução às Estruturas de Dados**
+   - Breve explicação sobre o que são estruturas de dados e por que são importantes.
 
-##Conteúdo
-Introdução às Estruturas de Dados
+2. **Arrays e Listas**
+   - Exemplos e exercícios relacionados ao uso de arrays em JavaScript.
 
-Breve explicação sobre o que são estruturas de dados e por que são importantes.
-Arrays e Listas
+3. **Filas e Pilhas**
+   - Implementações de filas e pilhas, juntamente com aplicações práticas.
 
-Exemplos e exercícios relacionados ao uso de arrays em JavaScript.
-Filas e Pilhas
+4. **Listas Ligadas**
+   - Aprofundamento em listas ligadas, com exemplos de operações básicas.
 
-Implementações de filas e pilhas, juntamente com aplicações práticas.
-Listas Ligadas
+5. **Árvores**
+   - Introdução a árvores, incluindo árvores binárias e operações associadas.
 
-Aprofundamento em listas ligadas, com exemplos de operações básicas.
-Árvores
+6. **Grafos**
+   - Exploração de grafos e algoritmos relacionados.
 
-Introdução a árvores, incluindo árvores binárias e operações associadas.
-Grafos
+## Pré-requisitos
 
-Exploração de grafos e algoritmos relacionados.
-Pré-requisitos
 Antes de começar, certifique-se de ter o seguinte instalado em seu ambiente de desenvolvimento:
 
-Node.js
-Um editor de código (por exemplo, Visual Studio Code)
+- Node.js
+- Um editor de código (por exemplo, Visual Studio Code)
 
+## Como Usar Este Repositório
 
-Como Usar Este Repositório
-Clone este repositório:
-bash
-Copy code
-    git clone https://github.com/seu-username/estrutura-de-dados-js.git
-Navegue até o diretório do projeto:
-bash
-Copy code
-    cd estrutura-de-dados-js
-Explore os diretórios e inicie seu aprendizado!
-Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e pull requests com correções, sugestões ou adições de conteúdo.
+1. **Clone este repositório:**
 
-Recursos Adicionais
-Documentação do JavaScript
+   ```bash
+   git clone https://github.com/seu-username/estrutura-de-dados-js.git
